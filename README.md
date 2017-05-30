@@ -11,5 +11,6 @@ deployment can be everyywhere..
 
 ##coypright
 pls dont copy
+ok
 
 you can contribute however you'd like
